@@ -1,2 +1,2 @@
 # vectoring
-ffi single header vector lib for luajit
+ffi single file vector lib for luajit
